@@ -1,0 +1,4 @@
+/* TODO: Add global application styles. */
+* { box-sizing: border-box; }
+body { margin: 0; font-family: Arial, sans-serif; }
+main { padding: 24px; }
